@@ -10,3 +10,7 @@ A curated list of resources dedicated to Biblical Natural Language Processing
 
 ## Tokenizers
 - [utoken](https://github.com/uhermjakob/utoken): Universal tokenizer in Python and CLI interface that is also tested on Biblical text.
+
+
+## Romanizers
+- [uroman](https://github.com/isi-nlp/uroman): Universal Romanizer that can convert any unicode script to roman (latin) script 
