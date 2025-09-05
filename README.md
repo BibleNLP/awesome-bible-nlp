@@ -14,6 +14,9 @@ A curated list of resources dedicated to Biblical Natural Language Processing
 
 ## Original Languages
 - Macula [Hebrew](https://github.com/Clear-Bible/macula-hebrew) | [Greek](https://github.com/Clear-Bible/macula-greek): Open-licensed and curated dataset of the Bible in Hebrew and Greek with various connected meta resources (e.g. Syntax trees, glosses, semantic roles). 
+- [Bible word alignments for multiple
+  languages](https://github.com/Clear-Bible/Alignments): This
+  repository contains openly-licensed word alignments for Bibles, including both automatic alignments and manually corrected alignments.
 
 ## Tokenizers
 - [utoken](https://github.com/uhermjakob/utoken): Universal tokenizer in Python and CLI interface that is also tested on Biblical text.
