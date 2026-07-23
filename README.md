@@ -18,6 +18,9 @@ A curated list of resources dedicated to Biblical Natural Language Processing
   languages](https://github.com/Clear-Bible/Alignments): This
   repository contains openly-licensed word alignments for Bibles, including both automatic alignments and manually corrected alignments.
 
+## Topical Annotations
+- [KJV–RV1909 Life Situations Dataset](https://bibleverse-generator.org/datasets/life-situations): Versioned EN/ES dataset of 360 Scripture topic-membership records (180 paired memberships) across ten life-situation topics. It is not a complete Bible corpus or benchmark; its 36 explanatory annotations are provisional and not human-reviewed.
+
 ## Tokenizers
 - [utoken](https://github.com/uhermjakob/utoken): Universal tokenizer in Python and CLI interface that is also tested on Biblical text.
 
