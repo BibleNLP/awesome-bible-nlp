@@ -8,6 +8,7 @@ A curated list of resources dedicated to Biblical Natural Language Processing
 - [Biblical Humanities Corpus](https://github.com/BibleNLP/biblical-humanities-corpus) | [on HuggingFace](https://huggingface.co/datasets/bible-nlp/biblenlp-corpus): Collection of open-licensed sentence-level (verse) aligned bi-text in several languages.
 - [Vachan Data Corpus](https://github.com/Bridgeconn/vachan-data/tree/master/parallel-corpora): Collection of 12 minority language New Testament translations from Northern India as sentence-level (verse) aligned bi-text.
 - [OPUS Bible Corpus (bible-uedin)](https://opus.nlpl.eu/bible-uedin.php): Collection of aligned bi-texts based on the Bible in 102 languages. \[[Paper](https://link.springer.com/article/10.1007/s10579-014-9287-y)\]
+- [Anselm Project Bible](https://huggingface.co/datasets/misterprmiller/anselm-project-bible): Complete English Bible translation generated from OSHB and SBLGNT+MorphGNT source tokens by a blind LLM committee pipeline, with the per-passage audit record published; CC BY 4.0 JSONL. [Methodology](https://www.anselm-project.com/bible/about).
 
 ## Audio
 - [Snow Mountain Dataset](https://huggingface.co/datasets/bridgeconn/snow-mountain): Open-licensed and formatted dataset of audio recordings of the Bible in low-resource Indian languages.
