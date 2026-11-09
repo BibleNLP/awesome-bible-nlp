@@ -27,3 +27,4 @@ A curated list of resources dedicated to Biblical Natural Language Processing
 ## Toolkits
 - [SIL Machine](https://github.com/sillsdev/machine) | [Python version](https://github.com/sillsdev/machine.py) | [JavaScript Version](https://github.com/sillsdev/machine.js): Toolkit for various NLP operations on Biblical content (especially support for Paratext projects).
 - [Wildebeest](https://github.com/uhermjakob/wildebeest): Investigate, repair and normalize text for a wide range of issues at the character level. Especially tested on Biblical content.
+- [Nabu](https://github.com/arvicco/nabu): Local, searchable library of ancient-text corpora with a read-only MCP server — the Hebrew Bible and Greek New Testament in many witnesses with morphology, cross-witness verse alignment, concordance, and LSJ / Lewis & Short dictionary lookup.
